@@ -1,6 +1,6 @@
-# ssr-blog
+# vue nuxt ssr-blog
 
-> Nuxt.js project
+> Nuxt.js educational project, original source article is here (https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 
 ## Build Setup
 
